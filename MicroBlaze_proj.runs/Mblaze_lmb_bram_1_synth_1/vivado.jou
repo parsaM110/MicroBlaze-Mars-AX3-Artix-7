@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Sun Mar 31 21:21:31 2024
+# Process ID: 19380
+# Current directory: C:/Users/Asus/MicroBlaze_proj/MicroBlaze_proj.runs/Mblaze_lmb_bram_1_synth_1
+# Command line: vivado.exe -log Mblaze_lmb_bram_1.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source Mblaze_lmb_bram_1.tcl
+# Log file: C:/Users/Asus/MicroBlaze_proj/MicroBlaze_proj.runs/Mblaze_lmb_bram_1_synth_1/Mblaze_lmb_bram_1.vds
+# Journal file: C:/Users/Asus/MicroBlaze_proj/MicroBlaze_proj.runs/Mblaze_lmb_bram_1_synth_1\vivado.jou
+#-----------------------------------------------------------
+source Mblaze_lmb_bram_1.tcl -notrace
